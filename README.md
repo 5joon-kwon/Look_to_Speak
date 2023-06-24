@@ -1,19 +1,27 @@
 # Look_to_Speak
 Ai_project, Look_to_Speak
 
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/First.png)
-
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Second.png)
-
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Third.png)
-
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Forth.png)
-
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Fifth.png)
-
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Sixth.png)
-
-(https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Final.png)
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/First.png">
+</p>
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Second.png">
+</p>
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Third.png">
+</p>
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Forth.png">
+</p>
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Fifth.png">
+</p>
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Sixth.png">
+</p>
+<p align="center">
+  <img src="https://github.com/junhyk-lee/Look_to_Speak/blob/main/Clip_img/Final.png">
+</p>
 
 # Flask API README
 
